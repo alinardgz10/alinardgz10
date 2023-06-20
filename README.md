@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alinardgz10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @alinardgz10.
+- 👀 I’m interested in getting better at coding.
+- 🌱 I’m currently learning Java Script.
+
+
 
 <!---
 alinardgz10/alinardgz10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
